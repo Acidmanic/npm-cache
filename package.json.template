@@ -1,0 +1,12 @@
+{
+  "name": "jnpmrepo",
+  "version": "1.0.0",
+  "description": "This is not actually a node package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Mani Moayedi",
+  "license": "ISC",
+  "dependencies": {  }
+}
